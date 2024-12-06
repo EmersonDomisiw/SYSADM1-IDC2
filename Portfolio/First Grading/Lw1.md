@@ -1,26 +1,13 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| b70252848ba94db485c695a0e5acf264 |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: Domisiw, Emerson P.        | DATE PERFORMED:        |  43/50   |
-|                                  | 08-22-24               |          |
-+----------------------------------+------------------------+----------+
-| Section: BSIT-IDC2               | DATE SUBMITTED:        |          |
-|                                  | 08-22-24               |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/2437da4a-0136-42df-bcae-47dab7940e27)
 
-# SYSADM1 -- Introduction to File Systems in Windows and Linux
+
+# SYSADM1 - Introduction to File Systems in Windows and Linux
 
 # Requirement: 
 
 -   A virtual machine running Linux and Windows OS
 
-# Instructions:  {#instructions .list-paragraph}
+# Instructions:  
 
 **Part A: Windows File System**
 
@@ -83,35 +70,28 @@
 
     1.  clip.mp4
 
-```{=html}
-<!-- -->
-```
 12. **Check file properties:** Right-click on the \"info.txt\" file and
     select \"Properties.\" Explore the General, Details, and Security
     tabs to understand file attributes like creation date, size, and
     read-only status.
 
-> ![](vertopal_b70252848ba94db485c695a0e5acf264/media/image2.png){width="2.885527121609799in"
-> height="3.548286307961505in"}![](vertopal_b70252848ba94db485c695a0e5acf264/media/image3.png){width="2.9082502187226598in"
-> height="3.5755205599300086in"}
->
-> ![](vertopal_b70252848ba94db485c695a0e5acf264/media/image4.png){width="2.918805774278215in"
-> height="3.586062992125984in"}
+![image](https://github.com/user-attachments/assets/c0023e8f-81ad-4855-acbc-0bbbda94bc96)
+
 
 13. **Change file attributes:** Try changing the file attributes (e.g.,
     read-only, hidden) using the Properties dialog. Observe the changes
     in File Explorer.
 
-> ![](vertopal_b70252848ba94db485c695a0e5acf264/media/image5.png){width="3.075094050743657in"
-> height="3.887057086614173in"}
+![image](https://github.com/user-attachments/assets/2e7a03d0-0e3b-4cb5-ab8d-4c5327f3e8d5)
+
 
 14. **Share the folder:** Right-click on the \"Lab1_Windows\" folder,
     select \"Properties,\" and then the \"Sharing\" tab. Share the
     folder with a specific user or group, setting appropriate
     permissions (e.g., Read, Write, Full control)
 
-> ![](vertopal_b70252848ba94db485c695a0e5acf264/media/image6.png){width="3.112451881014873in"
-> height="3.8752220034995624in"}
+![image](https://github.com/user-attachments/assets/e79a0f9e-d10b-4b73-b914-223c614a0fc2)
+
 
 15. **Create an archive:** Use WinRAR or 7-Zip to create a compressed
     archive of the \"Lab1_Windows\" folder.
@@ -119,43 +99,7 @@
 16. **Extract an archive:** Create a new folder, then extract the
     created archive into it.
 
-> ![](vertopal_b70252848ba94db485c695a0e5acf264/media/image7.png){width="6.448816710411198in"
-> height="1.5210454943132108in"}
+![image](https://github.com/user-attachments/assets/b7b0c2ed-62c7-49f8-a0c8-ee3548f74c54)
 
-Part B. Create a log report structure
 
-Lab1_Windows
-
-  ------------------------------------------------------------------------
-  FOLDER NAME            FILE NAME                FILE TYPE
-  ---------------------- ------------------------ ------------------------
-  **Lab1_Windows**       info                     Text document
-
-  **Data**               data                     Text document
-
-  **LabFiles**                                    
-
-  **Text**               large_text               Text document
-
-                         small_text               Text document
-
-                         code.cpp                 C++
-
-                                                  
-
-  **Images**             image1                   Jpg file
-
-                         Image2                   PNG file
-
-                         Image3                   BMP file
-
-                                                  
-
-  **Audio**              song                     MP3 file
-
-                         speech                   WAV file
-
-                                                  
-
-  **Video**              clip                     MP4 file
-  ------------------------------------------------------------------------
+![image](https://github.com/user-attachments/assets/f3cd9ef7-d49a-4e49-9fd0-ef11838b29c7)
