@@ -1,18 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| 075bae183d274caabad3dfe242229eb8 |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: Domisiw, Emerson P.        | DATE PERFORMED:        | /50      |
-|                                  | 09-26-24               |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED:        |          |
-|                                  | 09-26-24               |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/f6314fc0-7549-427b-a1f6-28fe89133df1)
+
 
 # SYSADM1 -- Monitoring Print Services in Windows Server 2019
 
@@ -24,64 +11,28 @@ Part 1: Setting Up Print Services
 
 1.  Install and configure **print.srv** domain
 
-  --------------------------------------------------------------------------------------------
-  ![](vertopal_075bae183d274caabad3dfe242229eb8/media/image2.png){width="4.11515748031496in"
-  height="2.542020997375328in"}
-  --------------------------------------------------------------------------------------------
+![image](https://github.com/user-attachments/assets/530c1747-2420-4025-a20f-4612d611d148)
 
-  --------------------------------------------------------------------------------------------
 
 2.  Connect one client to the recently created domain
 
-+-----------------------------------------------------------------------+
-| ![](vertopal_075bae183                                                |
-| d274caabad3dfe242229eb8/media/image3.png){width="2.614948600174978in" |
-| height="1.5731364829396326in"}                                        |
-|                                                                       |
-| ![](vertopal_075bae183                                                |
-| d274caabad3dfe242229eb8/media/image4.png){width="4.322521872265967in" |
-| height="1.8563713910761155in"}                                        |
-|                                                                       |
-| ![](vertopal_075bae183d                                               |
-| 274caabad3dfe242229eb8/media/image5.png){width="4.2816316710411195in" |
-| height="2.270003280839895in"}                                         |
-|                                                                       |
-| ![](vertopal_075bae183                                                |
-| d274caabad3dfe242229eb8/media/image6.png){width="4.289636920384952in" |
-| height="1.9912849956255467in"}                                        |
-+=======================================================================+
-+-----------------------------------------------------------------------+
+![image](https://github.com/user-attachments/assets/5aa0c10a-d63b-4f6a-a845-751f77e23b2c)
+![image](https://github.com/user-attachments/assets/084fd682-f961-4387-940e-eea860c719ab)
+
 
 3.  Install Print Services Role:
 
-  ---------------------------------------------------------------------------------------------
-  ![](vertopal_075bae183d274caabad3dfe242229eb8/media/image7.png){width="4.781917104111986in"
-  height="1.791917104111986in"}
-  ---------------------------------------------------------------------------------------------
+![image](https://github.com/user-attachments/assets/a9701e3c-4212-4450-bc3f-49d493520242)
 
-  ---------------------------------------------------------------------------------------------
 
 4.  Search the internet for any printer installer and convert it to iso
 
-+-----------------------------------------------------------------------+
-| ![](vertopal_075bae18                                                 |
-| 3d274caabad3dfe242229eb8/media/image8.png){width="4.69621062992126in" |
-| height="2.361796806649169in"}                                         |
-|                                                                       |
-| ![](vertopal_075bae183                                                |
-| d274caabad3dfe242229eb8/media/image9.png){width="6.261290463692038in" |
-| height="0.39588910761154855in"}                                       |
-+=======================================================================+
-+-----------------------------------------------------------------------+
+![image](https://github.com/user-attachments/assets/ab933310-b76b-484e-82b4-fcf013a1e4ee)
+
 
 5.  Install and deploy it as network printer
 
-  -----------------------------------------------------------------------------------------------
-  ![](vertopal_075bae183d274caabad3dfe242229eb8/media/image10.png){width="1.8208530183727034in"
-  height="2.0788035870516186in"}
-  -----------------------------------------------------------------------------------------------
-
-  -----------------------------------------------------------------------------------------------
+![image](https://github.com/user-attachments/assets/22f0b74d-f739-40ab-b46f-36ee7967f97e)
 
 Part 2: Monitoring Print Services
 
@@ -97,12 +48,8 @@ Windows Server 2019.
 
     -   Review logs for print jobs, errors, and warnings.
 
-  ----------------------------------------------------------------------------------------------
-  ![](vertopal_075bae183d274caabad3dfe242229eb8/media/image11.png){width="5.933818897637796in"
-  height="2.253548775153106in"}
-  ----------------------------------------------------------------------------------------------
+![image](https://github.com/user-attachments/assets/e33cf393-ae2e-4faa-8061-84a773d706d2)
 
-  ----------------------------------------------------------------------------------------------
 
 2.  Performance Monitor:
 
@@ -114,12 +61,8 @@ Windows Server 2019.
 
     -   Monitor performance metrics related to print services.
 
-  ----------------------------------------------------------------------------------------------
-  ![](vertopal_075bae183d274caabad3dfe242229eb8/media/image12.png){width="5.905240594925634in"
-  height="2.0331911636045494in"}
-  ----------------------------------------------------------------------------------------------
+![image](https://github.com/user-attachments/assets/200c490f-f2c5-4a9e-a960-4e59e25de86a)
 
-  ----------------------------------------------------------------------------------------------
 
 3.  Using Print Management Console:
 
@@ -129,12 +72,8 @@ Windows Server 2019.
 
     -   Use the Printers node to check the status of all printers.
 
-  ----------------------------------------------------------------------------------------------
-  ![](vertopal_075bae183d274caabad3dfe242229eb8/media/image13.png){width="5.950287620297463in"
-  height="1.6206135170603675in"}
-  ----------------------------------------------------------------------------------------------
+![image](https://github.com/user-attachments/assets/7f04dc3c-56a9-4fa5-bdf6-decd2a9bdb98)
 
-  ----------------------------------------------------------------------------------------------
 
 Part 3: Exploring Third-Party Monitoring Tools
 
@@ -143,12 +82,8 @@ Part 3: Exploring Third-Party Monitoring Tools
     -   Consider factors such as features, pricing, and compatibility
         with Windows Server 2019.
 
-  ----------------------------------------------------------------------------------------------
-  ![](vertopal_075bae183d274caabad3dfe242229eb8/media/image14.png){width="6.250872703412074in"
-  height="0.3125437445319335in"}
-  ----------------------------------------------------------------------------------------------
+![image](https://github.com/user-attachments/assets/935f9c50-26cf-4186-8dd4-d55405f769dc)
 
-  ----------------------------------------------------------------------------------------------
 
 2.  Install and Configure:
 
@@ -166,140 +101,10 @@ Part 3: Exploring Third-Party Monitoring Tools
     -   Analyze the collected data (e.g., print volume, errors, user
         activity).
 
-Rubric
+![image](https://github.com/user-attachments/assets/a823f7cd-3fe8-49b5-a302-db81684e7cb8)
 
-  --------------------------------------------------------------------------------------------------------------
-  **Criteria**   **1                  **2 (Needs       **3                **4        **5             **Score**
-                 (Unsatisfactory)**   Improvement)**   (Satisfactory)**   (Good)**   (Excellent)**   
-  -------------- -------------------- ---------------- ------------------ ---------- --------------- -----------
+![image](https://github.com/user-attachments/assets/3901c696-e1b5-4a48-ad6c-94a71b0a4a73)
 
-  --------------------------------------------------------------------------------------------------------------
+![image](https://github.com/user-attachments/assets/e9f65dbb-b7fe-425e-b874-cf6aba5853aa)
 
-  ---------------------------------------------------------------------------------
-  **Part 1: Setting Up Print Services**                                          
-  --------------------------------------------------------------- -- -- -- -- -- --
 
-  ---------------------------------------------------------------------------------
-
-  ----------------------------------------------------------------------------------
-  **Domain         No domain Domain     Domain      Domain       Domain           
-  Installation**   created   created    created     configured   configured and   
-                             with       correctly   well         documented       
-                             errors                              thoroughly       
-  ---------------- --------- ---------- ----------- ------------ ---------------- --
-
-  ----------------------------------------------------------------------------------
-
-  --------------------------------------------------------------------------------
-  **Client       Client not  Connection   Client      Client      Client        
-  Connection**   connected   attempt      connected   connected   connected and 
-                             failed       but with    correctly   documented    
-                                          issues                  well          
-  -------------- ----------- ------------ ----------- ----------- ------------- --
-
-  --------------------------------------------------------------------------------
-
-  ------------------------------------------------------------------------------------
-  **Print Services Role not    Role        Role        Role         Role installed, 
-  Role             installed   installed   installed   installed    configured, and 
-  Installation**               with issues correctly   and          documented      
-                                                       configured   thoroughly      
-  ---------------- ----------- ----------- ----------- ------------ --------------- --
-
-  ------------------------------------------------------------------------------------
-
-  ---------------------------------------------------------------------------------
-  **Printer      No          Installer    Installer   Installer   Installer      
-  Installer      installer   conversion   converted   converted   converted,     
-  Conversion**   found       attempted    but not     and used    used, and      
-                             but failed   used                    documented     
-                                                                  well           
-  -------------- ----------- ------------ ----------- ----------- -------------- --
-
-  ---------------------------------------------------------------------------------
-
-  ---------------------------------------------------------------------------------
-  **Network      Printer    Deployment   Printer      Printer     Printer        
-  Printer        not        failed       deployed but deployed    deployed,      
-  Deployment**   deployed                not          correctly   tested, and    
-                                         functional               documented     
-                                                                  well           
-  -------------- ---------- ------------ ------------ ----------- -------------- --
-
-  ---------------------------------------------------------------------------------
-
-  ---------------------------------------------------------------------------------
-  **Part 2: Monitoring Print Services**                                          
-  --------------------------------------------------------------- -- -- -- -- -- --
-
-  ---------------------------------------------------------------------------------
-
-  ------------------------------------------------------------------------------
-  **Event   Event     Opened but  Logs reviewed Logs        Logs reviewed     
-  Viewer    Viewer    no logs     but           reviewed    with thorough     
-  Usage**   not       reviewed    superficial   with some   analysis and      
-            opened                              analysis    documentation     
-  --------- --------- ----------- ------------- ----------- ----------------- --
-
-  ------------------------------------------------------------------------------
-
-  ----------------------------------------------------------------------------------
-  **Performance   Performance   Opened but  Metrics     Metrics     Metrics       
-  Monitor Usage** Monitor not   no metrics  monitored   monitored   monitored,    
-                  opened        monitored   but not     with some   analyzed, and 
-                                            analyzed    analysis    documented    
-                                                                    thoroughly    
-  --------------- ------------- ----------- ----------- ----------- ------------- --
-
-  ----------------------------------------------------------------------------------
-
-  ----------------------------------------------------------------------------------
-  **Print       Console   Opened but      Active jobs     Active    Active jobs   
-  Management    not       functionality   viewed          jobs      viewed and    
-  Console       opened    not used        superficially   viewed    documented    
-  Usage**                                                 with some thoroughly    
-                                                          detail                  
-  ------------- --------- --------------- --------------- --------- ------------- --
-
-  ----------------------------------------------------------------------------------
-
-  ---------------------------------------------------------------------------------
-  **Part 3: Exploring Third-Party Tools**                                        
-  --------------------------------------------------------------- -- -- -- -- -- --
-
-  ---------------------------------------------------------------------------------
-
-  ---------------------------------------------------------------------------------
-  **Research   No tools     Research     Research on Research on  Research on    
-  on Tools**   researched   incomplete   one tool    two tools    two tools,     
-                                         completed   with some    detailed       
-                                                     analysis     analysis, and  
-                                                                  comparison     
-  ------------ ------------ ------------ ----------- ------------ -------------- --
-
-  ---------------------------------------------------------------------------------
-
-  ----------------------------------------------------------------------------------------
-  **Installation    Tool not    Installation   Tool         Tool         Tool           
-  and               installed   failed         installed    installed    installed,     
-  Configuration**                              but not      and          configured,    
-                                               configured   configured   and documented 
-                                                            with issues  thoroughly     
-  ----------------- ----------- -------------- ------------ ------------ -------------- --
-
-  ----------------------------------------------------------------------------------------
-
-  -------------------------------------------------------------------------------
-  **Reporting   No report   Report   Report      Report      Comprehensive     
-  Findings**    generated   lacks    generated   generated   report with       
-                            detail   but lacks   with some   thorough analysis 
-                                     analysis    analysis    and documentation 
-  ------------- ----------- -------- ----------- ----------- ----------------- --
-
-  -------------------------------------------------------------------------------
-
-![](vertopal_075bae183d274caabad3dfe242229eb8/media/image15.png){width="4.875680227471566in"
-height="3.27128937007874in"}
-
-![](vertopal_075bae183d274caabad3dfe242229eb8/media/image16.png){width="4.8027537182852145in"
-height="2.3024048556430445in"}
