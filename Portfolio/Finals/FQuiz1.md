@@ -1,18 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| 0a4f53c6e117432c9d88d1c835d7d84e |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: Domisiw, Emerson P.        | DATE PERFORMED:        |          |
-|                                  | 11-21-24               |          |
-+----------------------------------+------------------------+----------+
-| Section: BSIT-IDC2               | DATE SUBMITTED:        |          |
-|                                  | 11-21-24               |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/014f9be4-9fe5-4298-a8b4-670e0f34b053)
+
 
 **WINDOWS ADMINISTRATIVE TOOLS**
 
