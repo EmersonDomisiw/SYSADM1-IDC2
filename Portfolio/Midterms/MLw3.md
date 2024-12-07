@@ -1,18 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| ac9354636ccb4c399b6a4b1e4275bdfb |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: Domisiw, Emerson P.        | DATE PERFORMED:        | /50      |
-|                                  | 10-17-24               |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED:        |          |
-|                                  | 10-17-24               |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/92917fe9-cc96-436c-9b6b-fe8a81fc6cd6)
+
 
 # SYSADM1 -- Platform Services
 
@@ -35,18 +22,8 @@
 2.  From the event viewer, explore the windows log and list down its
     major categories
 
-+-----------------------------------------------------------------------+
-| **Application**                                                       |
-|                                                                       |
-| **Security**                                                          |
-|                                                                       |
-| **Setup**                                                             |
-|                                                                       |
-| **System**                                                            |
-|                                                                       |
-| **Forwarded Events**                                                  |
-+=======================================================================+
-+-----------------------------------------------------------------------+
+![image](https://github.com/user-attachments/assets/3e185ee5-542a-4bf7-b5e1-890898530fd4)
+
 
 **Part 2: Filtering and Analyzing IIS Events**
 
@@ -68,45 +45,12 @@
 
         -   **Description**
 
-+--------------+-------------------------------------------------------+
-| **Events**   | **Screenshots**                                       |
-+==============+=======================================================+
-| Application  | ![](vertopal_ac9354636ccb4c399b6a4b1e4                |
-|              | 275bdfb/media/image2.png){width="4.481359361329834in" |
-|              | height="3.354491469816273in"}                         |
-|              |                                                       |
-|              | **Description:** License Activation(slui.exe) failed  |
-|              |                                                       |
-|              | **Description:** Acquisition of End User License      |
-|              | failed.                                               |
-|              |                                                       |
-|              | **Description:** License acquisition failure          |
-+--------------+-------------------------------------------------------+
-| Security     | ![](vertopal_ac9354636ccb4c399b6a4b1e4                |
-|              | 275bdfb/media/image3.png){width="4.405187007874016in" |
-|              | height="2.10657261592301in"}                          |
-+--------------+-------------------------------------------------------+
-| Setup        | ![](vertopal_ac9354636ccb4c399b6a4b1e4                |
-|              | 275bdfb/media/image4.png){width="4.716973972003499in" |
-|              | height="1.650100612423447in"}                         |
-+--------------+-------------------------------------------------------+
-| System       | ![](vertopal_ac9354636ccb4c399b6a4b1e4                |
-|              | 275bdfb/media/image5.png){width="4.787461723534558in" |
-|              | height="2.5726990376202976in"}                        |
-|              |                                                       |
-|              | **Description:** 4199-The system detected an address  |
-|              | conflict for IP address 10.20.30.40.                  |
-|              |                                                       |
-|              | **Description:** 7030-The Printer Extensions and      |
-|              | Notifications is marked as an interactive service.    |
-|              |                                                       |
-|              | **Description:** 46- The time service encountered an  |
-|              | error and was forced to shut down.                    |
-+--------------+-------------------------------------------------------+
-| Forwarded    | ![](vertopal_ac9354636ccb4c399b6a4b1e4                |
-| Events       | 275bdfb/media/image6.png){width="5.085450568678915in" |
-|              | height="2.5670341207349083in"}                        |
-+--------------+-------------------------------------------------------+
+![image](https://github.com/user-attachments/assets/d0482837-7f01-4c0b-af61-7de6a7aad8c8)
+
+![image](https://github.com/user-attachments/assets/02253590-1ba2-43e2-9202-170cd9ef3f1b)
+
+
+![image](https://github.com/user-attachments/assets/81b3a281-54b8-4b9a-94b2-e0b3ead87cc9)
 
 **Part 3: Troubleshooting and Solution Development**
 
@@ -146,99 +90,32 @@
 
 -   Describe the likely cause of each error and how you would fix it.
 
-+-----------------------------------------------------------------------+
-| -   Event ID 8198: My windows installer service failed to start which |
-|     had hinder the application installations.                         |
-|                                                                       |
-| Solution: Restart the Windows Installer                               |
-|                                                                       |
-| -   Event ID 4199: Missing installation files.                        |
-|                                                                       |
-| Solution: Verify the integrity of the installation files and          |
-| re-download if necessary                                              |
-+=======================================================================+
-+-----------------------------------------------------------------------+
+![image](https://github.com/user-attachments/assets/935244d1-f4e6-4d16-b066-2a909370f973)
+
 
 **Part 4: Reflection Questions**
 
 1.  What are the most common causes of a **503 Service Unavailable**
     error?
 
-+-----------------------------------------------------------------------+
-| The most common causes of 503 Service Unavailable are:                |
-|                                                                       |
-| -Maintenance or downtime of the server                                |
-|                                                                       |
-| -Resource limitations(CPU memory)                                     |
-|                                                                       |
-| -High traffic in the server                                           |
-+=======================================================================+
-+-----------------------------------------------------------------------+
+![image](https://github.com/user-attachments/assets/a6cf04a0-ebe0-44ff-b67e-0bb20e06a7cf)
+
 
 2.  How would you **monitor login attempts** to detect potential
     security threats?
 
-+-----------------------------------------------------------------------+
-| -Setting up an alerts for multiple failed logins                      |
-|                                                                       |
-| -Enabling auditing for login events in Windows server                 |
-|                                                                       |
-| -Review the security logins to monitor in the Event Viewer to see the |
-| failed attempts that is created                                       |
-+=======================================================================+
-+-----------------------------------------------------------------------+
+![image](https://github.com/user-attachments/assets/578f6bb3-c591-4be6-ba13-68bff5a91ec0)
+
 
 3.  Why is **monitoring logs** in Event Viewer important for
     administrators?
 
-+-----------------------------------------------------------------------+
-| -For the reason that it identifies errors and application issues.     |
-|                                                                       |
-| -It tracks security events and potential breaches that is happening.  |
-|                                                                       |
-| -It helps the network engineers to be updated about errors,           |
-| unauthorized activities and system failures so that it will be safe   |
-| and secured when using any applications and avoid threats and         |
-| vulnerabilities from happening.                                       |
-+=======================================================================+
-+-----------------------------------------------------------------------+
+![image](https://github.com/user-attachments/assets/1c15229b-6b98-4b0b-a2b1-50479866ac13)
+![image](https://github.com/user-attachments/assets/4aa8f810-ff79-4684-804d-8b8ca14aa82f)
+
+
 
 Grading Rubric
 
-  ---------------------------------------------------------------------------------------------------------------------------------------
-  **Criteria**        **Excellent**     **Good**          **Needs                           **Poor**                         **Points**
-                                                          Improvement**                                                      
-  ------------------- ----------------- ----------------- --------------- ----------------- ------------- ------------------ ------------
-  **Log Analysis**    Identifies all    Identifies most   Identifies some                   Fails to                         /10
-                      key events (503,  key events with   events, but                       identify key                     
-                      404, 500, etc.)   minor errors in   with incomplete                   events or                        
-                      with accurate     details.          or incorrect                      provides                         
-                      event details.                      details.                          incorrect                        
-                                                                                            details.                         
+ ![image](https://github.com/user-attachments/assets/90f596a2-c8c0-4168-9313-bc5e3aa2cdf9)
 
-  **Troubleshooting   Proposes logical, Solutions are     Solutions are                     Solutions are                    /10
-  Solutions**         effective         mostly correct    somewhat vague                    unclear or                       
-                      solutions to all  but miss some key or incomplete.                    incorrect.                       
-                      identified        points.                                                                              
-                      issues.                                                                                                
-
-  **Report Structure  Well-organized    Report is mostly  Report is                         Report is                        /10
-  & Clarity**         report with all   organized with    disorganized or                   unclear or                       
-                      sections clearly  minor formatting  missing                           incomplete.                      
-                      completed.        issues.           sections.                                                          
-
-  **Recommendations   Provides          Recommendations                   Recommendations                 Fails to provide   /10
-  for Monitoring**    thoughtful,       are relevant but                  are vague or                    relevant           
-                      proactive         lack depth.                       incomplete.                     recommendations.   
-                      recommendations                                                                                        
-                      to prevent future                                                                                      
-                      issues.                                                                                                
-
-  **Participation &   Actively engaged  Participated but                  Minimal                         Did not            /10
-  Effort**            in the activity,  required some                     participation,                  participate        
-                      followed          guidance.                         needed                          meaningfully.      
-                      instructions                                        significant help.                                  
-                      thoroughly.                                                                                            
-
-  **Score**                                                                                                                  **/50**
-  ---------------------------------------------------------------------------------------------------------------------------------------
