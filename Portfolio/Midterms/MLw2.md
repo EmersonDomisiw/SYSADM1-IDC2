@@ -1,18 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| e6011236cca54cee9209d8246d4a7901 |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: Domisiw, Emerson P.        | DATE PERFORMED:        | /50      |
-|                                  | 10-10-24               |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED:        |          |
-|                                  | 10-10-24               |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/15cb8c0b-9cd2-4f14-8421-c105f8133abf)
+
 
 1.  # SYSADM1 -- Setting Up Webserver
 
@@ -35,8 +22,8 @@
     -   Enter a name, description, physical path (where your website
         files will reside), IP address, port, and host name.
 
-> ![](vertopal_e6011236cca54cee9209d8246d4a7901/media/image2.png){width="4.285326990376203in"
-> height="4.133823272090988in"}
+![image](https://github.com/user-attachments/assets/d629cfc4-e16b-41e1-ae7d-9f6a8ecb9809)
+
 
 3.  Configure the Website:
 
@@ -45,8 +32,8 @@
     -   Set the Default Document to the name of your main HTML file
         \>default.html
 
-> ![](vertopal_e6011236cca54cee9209d8246d4a7901/media/image3.png){width="3.8234503499562553in"
-> height="1.7085717410323709in"}
+![image](https://github.com/user-attachments/assets/ec270db0-a531-4942-8a13-5aff0c975c46)
+
 
 -   Configure other settings as needed (e.g., SSL certificates,
     authentication)
@@ -55,13 +42,13 @@
 
     -   Create an HTML file in the physical path you specified.
 
-> ![](vertopal_e6011236cca54cee9209d8246d4a7901/media/image4.png){width="3.652083333333333in"
-> height="1.52377624671916in"}
+![image](https://github.com/user-attachments/assets/e0d4406e-b2ff-4859-9d0d-6a22a05d9797)
+
 
 -   Save it as default.html or your preferred name.
 
-> ![](vertopal_e6011236cca54cee9209d8246d4a7901/media/image5.png){width="5.591890857392826in"
-> height="1.3488298337707787in"}
+![image](https://github.com/user-attachments/assets/affd4fe6-7c22-4dbe-89d8-7a214b8d3c94)
+
 
 5.  Test the Web Server:
 
@@ -72,29 +59,4 @@
 
 > Grading Rubric
 
-  ----------------- ------------ -----------------------------------------------
-  **Criteria**      **Points**   **Description**
-
-  Web Server        15           Correctly installs IIS or another web server on
-  Installation                   the virtual machine.
-
-  Website           15           Successfully configures the website with the
-  Configuration                  correct physical path, IP address, port, and
-                                 default document.
-
-  Successful Access 15           Successfully accesses the web page from the
-                                 client computer using the correct URL.
-
-  Troubleshooting   15           Demonstrates ability to troubleshoot common
-                                 issues, such as network connectivity problems
-                                 or configuration errors.
-
-  Documentation     10           Provides clear and concise documentation of the
-                                 installation, configuration, and testing
-                                 process.
-
-  Total             /70          
-  ----------------- ------------ -----------------------------------------------
-
-> ![](vertopal_e6011236cca54cee9209d8246d4a7901/media/image6.png){width="5.579525371828521in"
-> height="3.7875043744531935in"}
+  ![image](https://github.com/user-attachments/assets/d447b451-9eb1-4f56-8adc-29d71fa4aa69)
