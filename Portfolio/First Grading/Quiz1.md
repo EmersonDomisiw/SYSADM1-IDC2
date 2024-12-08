@@ -1,0 +1,2 @@
+![](vertopal_5672162474134b71b05a15147e28cea5/media/image1.png){width="6.1852088801399825in"
+height="9.684212598425196in"}
