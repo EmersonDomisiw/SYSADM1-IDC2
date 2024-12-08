@@ -1,2 +1,2 @@
-![](vertopal_5672162474134b71b05a15147e28cea5/media/image1.png){width="6.1852088801399825in"
-height="9.684212598425196in"}
+![image](https://github.com/user-attachments/assets/06e06e54-b03c-4290-beea-5902993b45d2)
+
