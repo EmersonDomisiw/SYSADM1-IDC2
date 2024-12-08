@@ -1,0 +1,11 @@
+![](vertopal_177596d49a1e47c1a18858f78e40296f/media/image3.png){width="6.192708880139983in"
+height="7.988990594925634in"}
+
+![](vertopal_177596d49a1e47c1a18858f78e40296f/media/image4.png){width="6.151042213473316in"
+height="7.935238407699037in"}
+
+![](vertopal_177596d49a1e47c1a18858f78e40296f/media/image2.png){width="6.182952755905512in"
+height="8.20312554680665in"}
+
+![](vertopal_177596d49a1e47c1a18858f78e40296f/media/image1.png){width="6.041990376202975in"
+height="7.963542213473316in"}
