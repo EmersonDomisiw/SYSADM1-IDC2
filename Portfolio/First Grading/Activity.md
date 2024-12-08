@@ -1,5 +1,2 @@
-![](vertopal_290c571183364fb89f212579e682284e/media/image2.png){width="6.276556211723535in"
-height="8.20312554680665in"}
-
-![](vertopal_290c571183364fb89f212579e682284e/media/image1.png){width="5.878886701662292in"
-height="7.64255249343832in"}
+![image](https://github.com/user-attachments/assets/33bbfab5-47b4-4c06-8a26-e5eb5af123b1)
+![image](https://github.com/user-attachments/assets/5c86035b-764b-4d9b-8ebe-edf3a0b071c7)
